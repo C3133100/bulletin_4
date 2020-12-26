@@ -10174,3 +10174,12 @@ header.masthead h1 {
   background-size:1600px 900px;
 
 }
+
+
+#ten{
+  background-image: url("../assets/blackbord.jpg");
+  opacity: 0.3;
+  background-repeat: no-repeat;
+  background-size:1600px 900px;
+
+}
